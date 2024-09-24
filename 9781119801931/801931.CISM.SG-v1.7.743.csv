@@ -1,4 +1,4 @@
-productID,env,id,title,order,href,placementType,topic,topicOrder,type,frontText,backText,responseID,errors
+projectId,env,qtiId,title,order,href,placementType,topic,topicOrder,source,frontText,backText,resourceId,errors
 4f11a775-e489-47ec-98d7-8f8cce54888f,PROD,f76bc933-1848-4fcc-9ea0-5a5e689c06df,fc801931.CISMSG.001,1,fc801931.CISMSG.001.xml,coursewide,,,SYBEX,What are the three main objectives of a cybersecurity program?,"Confidentiality, Integrity, and Availability",01J0JPMM0DCXEBT97JX6FVX07J,
 4f11a775-e489-47ec-98d7-8f8cce54888f,PROD,3102787e-c3c5-4fa6-819f-83e654290941,fc801931.CISMSG.002,2,fc801931.CISMSG.002.xml,coursewide,,,SYBEX,What term is commonly used to describe the senior&hyphen;most information security leader in an organization?,Chief Information Security Officer (CISO),01J0JPMMMCRBHVZ40RF0FGBHNH,
 4f11a775-e489-47ec-98d7-8f8cce54888f,PROD,b2fb9fc3-bd8a-45a1-b0fa-64e364a4c5c9,fc801931.CISMSG.003,3,fc801931.CISMSG.003.xml,coursewide,,,SYBEX,What are the four roles assigned to individuals and teams in an RACI matrix?,"Responsible, Accountable, Consulted, and Informed",01J0JPMMVNPHY82HB4VFWJ7VCF,
