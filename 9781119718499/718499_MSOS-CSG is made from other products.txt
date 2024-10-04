@@ -1,0 +1,4 @@
+Test banks SHARE items with existing products: 
+718246 MSOS SG Excel / 9781119718246
+718260 MSOS SG Word / 9781119718260
+718468 MSOS SG PowerPoint / 9781119718468
